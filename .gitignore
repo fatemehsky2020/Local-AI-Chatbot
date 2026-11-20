@@ -1,0 +1,16 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+cpu_env/
+venv/
+.venv/
+
+# Large AI models
+models/*.gguf
+
+# Other
+.env
+.vscode/
